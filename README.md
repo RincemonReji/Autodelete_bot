@@ -27,6 +27,4 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-### Credits
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Arun](https://t.me/Arun_TG)
+
